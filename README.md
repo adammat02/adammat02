@@ -1,66 +1,46 @@
-# Hi there 👋 I'm Adam
+# Hi, I'm Adam 👋
 
-🎓 Graduate in **Automation and Robotics**  
-🤖 Specialization: **Robotics** – Wrocław University of Science and Technology  
-
----
-
-## 👨‍💻 About Me
-
-I am passionate about **embedded systems**, low-level programming, and robotics.  
-My main programming languages are:
-
-- 💻 C / C++
-- 🐍 Python
-
-I particularly enjoy designing and building complete systems — from hardware and electronics to firmware and high-level control software.
+🎓 Automation & Robotics — Wrocław University of Science and Technology  
+🤖 Specialization: Robotics
 
 ---
 
-## 🤖 Engineering Project – 5-DOF Robotic Arm
+## About Me
 
-As my Bachelor's thesis, I designed and built a **5 Degrees of Freedom Robotic Manipulator**.
+I'm into embedded systems, low-level programming, and robotics. My main languages are **C/C++** for anything close to hardware and **Python** for higher-level control and prototyping.
 
-The project includes:
-
-- Custom PCB design  
-- Low-level firmware (C/C++)  
-- High-level control in Python  
-- Forward and Inverse Kinematics  
-- Modular hardware architecture  
-
-🔗 Project repository (organization):  
-👉 **[5-DOF Robotic Arm Project](https://github.com/arm-5dof)**
+I enjoy building complete systems — from PCB design and electronics, through firmware, up to control software.
 
 ---
 
-## 🧠 Interests
+## 🤖 Bachelor's Thesis — 5-DOF Robotic Arm
 
-In my free time, I explore:
+Designed and built a **5 Degrees of Freedom Robotic Manipulator** from scratch.
 
-- Artificial Neural Networks  
-- Reinforcement Learning  
-- Particle Swarm Optimization (PSO)  
-- Ant Colony Optimization (ACO)  
-- Algorithm design and problem solving  
+- Custom PCB design
+- Low-level firmware in C/C++
+- High-level control in Python
+- Forward & Inverse Kinematics
+- Modular hardware architecture
 
-I enjoy understanding how algorithms work internally and implementing them from scratch.
+🔗 **[github.com/arm-5dof](https://github.com/arm-5dof)**
+
+---
+
+## Interests
+
+In my free time I explore topics like artificial neural networks, reinforcement learning, and swarm intelligence algorithms (PSO, ACO). I like understanding how things work under the hood and implementing them from scratch.
 
 ---
 
 ## 🛠 Technical Focus
 
-- Embedded Systems  
-- Microcontrollers (STM32, ESP32, RP series)  
-- Real-time systems  
-- Control systems  
-- Robotics software architecture  
-- Numerical computing and simulations  
+**Languages:** C / C++ · Python  
+**Microcontrollers:** STM32 · ESP32 · RP series  
+**Areas:** Embedded systems · Real-time systems · Control systems · Robotics software architecture · Numerical computing
 
 ---
 
 ## 📫 Contact
 
-Feel free to reach out or explore my repositories.
-
-Always open to interesting technical discussions and embedded/robotics opportunities.
+Feel free to explore my repositories or reach out — always happy to talk embedded systems and robotics.
